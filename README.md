@@ -2,7 +2,7 @@
 
 基于 TVBox 的开源影视盒子，适配电视盒子与手机横屏。
 
-本仓库为 **yunTV 的发布仓库**：存放正式版 APK 资产与自动更新清单（`version.json`），源码仓库见 [be-engineer/Box](https://github.com/be-engineer/Box)。
+本仓库为 **yunTV 的发布仓库**：存放正式版 APK 资产与更新清单（`version.json`），源码仓库见 [be-engineer/Box](https://github.com/be-engineer/Box)。
 
 ## ✨ 核心特性
 
@@ -12,9 +12,6 @@
 ### ✅ 一键验证源
 批量测试数据源连通性：逐条显示 HTTP 状态、耗时、站点数/频道数，坏源一目了然，添加前先验货。
 
-### 🛡️ 弹窗看门狗
-部分第三方爬虫 jar 会强制弹出"验证码激活"框（返回键关不掉），看门狗自动摘除此类弹窗；同时按内容智能放行夸克/百度/阿里网盘扫码登录等正常弹窗，不影响网盘使用。
-
 ### 其他
 - 数据源管理：添加 / 扫码添加 / 编辑 / 历史记录
 - 直播源 + EPG 支持
@@ -23,20 +20,12 @@
 
 ## 📦 下载
 
-**推荐：已安装云TV 的设备直接在「设置 → 检查更新」内升级**（更新清单经 RSA 签名校验）。
-
-手动下载到 [Releases](https://github.com/be-engineer/yunTV/releases) 页面：
+到 [Releases](https://github.com/be-engineer/yunTV/releases) 页面下载最新版：
 
 | 文件 | 适用 |
 |------|------|
 | `yunTV-release-<日期>.apk` | arm64-v8a（主流手机/盒子） |
 | `yunTV-release-<日期>-armeabi.apk` | armeabi-v7a（老盒子） |
-
-## 🔄 自动更新机制
-
-- 清单 `version.json` 记录最新 versionCode / APK 下载地址 / SHA-256 / RSA 签名
-- 设备端内置公钥验签，签名不符的清单直接拒绝，防更新劫持
-- APK 下载后再做 md5 / SHA-256 双重校验
 
 ## ⚠️ 免责声明
 
