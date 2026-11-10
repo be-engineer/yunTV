@@ -2,7 +2,6 @@
 
 基于 TVBox 的开源影视盒子，适配电视盒子与手机横屏。
 
-本仓库为 **yunTV 的发布仓库**：存放正式版 APK 资产与更新清单（`version.json`），源码仓库见 [be-engineer/Box](https://github.com/be-engineer/Box)。
 
 ## ✨ 核心特性
 
