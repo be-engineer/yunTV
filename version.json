@@ -1,8 +1,10 @@
 {
-  "versionCode": 20261104,
-  "versionName": "1.0.20261104_2020",
-  "apkUrl": "https://github.com/be-engineer/Box-releases/releases/download/v20261104/Box-release-20261104.apk",
-  "changelog": "1. 撤掉每次启动的更新检测诊断弹窗,无新版本/检查失败时不再打扰\n2. 授权页跳转不再要求上下文是 Activity\n3. 优先直接调起系统安装器,由系统引导授权\n4. release 构建补 R8 keep 规则,更新链路不再被裁剪",
+  "versionCode": 20261110,
+  "versionName": "1.0.20261110_0930",
+  "apkUrl": "https://github.com/be-engineer/yunTV/releases/download/v20261110/yunTV-release-20261110.apk",
+  "changelog": "云TV 更名首版\n1. 弹窗看门狗:自动摘除第三方爬虫 jar 强弹的验证码激活框,网盘登录弹窗不受影响\n2. 自动搜索数据源:结果随机化,勾选批量添加,每日 3 次\n3. 一键验证源:批量测连通性,显示 HTTP 状态/耗时/站点数\n4. 弹窗布局全面适配手机横屏\n5. APK 更名 yunTV(云TV)",
   "force": false,
-  "md5": "1094446a58fed89c66341e5d3d7546f0"
+  "md5": "615b1f7b608a04a29e5dee0203168a7d",
+  "sha256": "fc946173d886ca1a3d50c50bfd3764f59ecada67de20da43e18d0b4826519319",
+  "sig": "AcyLE/F5MC6VujF1/THboHC+x0qm8KfPJDERJ5jw8UWn5eWjctjlD8PLT3fuTwlf/CVUNj08vnakrUUsucw7CEG6OcR2uGdjFpU6ho649C4gm3NAtlIcRVExqOuw9A68eghwE53R0eaeekKQZG2y0cRjt+Oi7u1DlZ2pLfvH0f/zk18a5y8rnnYLG6Abgt6bHr/0OM5kLaO4dJYKxCSD3k75/iSvWhwpUFgDU3Ic6HdmxOpB20vgpCsusnTnBLOetQZLQgCVQxsDEIVHOjMWnDFXV5Z8Ac19Cb8tfGpLbvJbD314k3t1aMAPElHuvDZYnB6Dtl6R89EWQFdvERnODQ=="
 }
