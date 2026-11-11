@@ -1,10 +1,10 @@
 {
-  "versionCode": 20261110,
-  "versionName": "1.0.20261110_0930",
-  "apkUrl": "https://github.com/be-engineer/yunTV/releases/download/v20261110/yunTV-release-20261110.apk",
-  "changelog": "云TV 更名首版\n1. 弹窗看门狗:自动摘除第三方爬虫 jar 强弹的验证码激活框,网盘登录弹窗不受影响\n2. 自动搜索数据源:结果随机化,勾选批量添加,每日 3 次\n3. 一键验证源:批量测连通性,显示 HTTP 状态/耗时/站点数\n4. 弹窗布局全面适配手机横屏\n5. APK 更名 yunTV(云TV)",
+  "versionCode": 20261111,
+  "versionName": "1.0.20261111_1734",
+  "apkUrl": "https://github.com/be-engineer/yunTV/releases/download/v20261111/yunTV-release-20261111.apk",
+  "changelog": "更换搜索逻辑",
   "force": false,
-  "md5": "615b1f7b608a04a29e5dee0203168a7d",
-  "sha256": "fc946173d886ca1a3d50c50bfd3764f59ecada67de20da43e18d0b4826519319",
-  "sig": "AcyLE/F5MC6VujF1/THboHC+x0qm8KfPJDERJ5jw8UWn5eWjctjlD8PLT3fuTwlf/CVUNj08vnakrUUsucw7CEG6OcR2uGdjFpU6ho649C4gm3NAtlIcRVExqOuw9A68eghwE53R0eaeekKQZG2y0cRjt+Oi7u1DlZ2pLfvH0f/zk18a5y8rnnYLG6Abgt6bHr/0OM5kLaO4dJYKxCSD3k75/iSvWhwpUFgDU3Ic6HdmxOpB20vgpCsusnTnBLOetQZLQgCVQxsDEIVHOjMWnDFXV5Z8Ac19Cb8tfGpLbvJbD314k3t1aMAPElHuvDZYnB6Dtl6R89EWQFdvERnODQ=="
+  "md5": "b5c7dda41c53a3368556502222232822",
+  "sha256": "306b5d312d316e75539163715325221f74c896876032bc12660a8aecd27a051a",
+  "sig": "DYkQWj+JCdIl0iQbUf2BvCrfjO/5XMXDgXKymQ+pRXefFTYv7na57aN9kwkOGNRc0pWPwH8fPnlMM43UqyQ9WFnTqE1N5P24AUCYwMTB5N3StSLrV5saR9x3QemksDhizK2/YUu5EtAODIaOKkYQa7dMXiWO5nFSpSUKpSEzUx/dMne5JCakybuRd/9mW0rgylzDer/1xhx/PveprGRyCpmNSl3N594evwTlJWiaNcyctCzq2QqnsbOBBpcPeeRlgy8Ccwl11swbTUhIxPwmx2hDkHrJnxbGYcgnNiGT1syfWqxdL2izs0NZBfLIx8AOFeZOtmtMPyvVfc/8gJCHtQ=="
 }
