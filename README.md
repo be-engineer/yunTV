@@ -32,4 +32,10 @@
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/be-engineer/yunTV/total.svg)
 
+### 📈 下载趋势
+
+![yunTV 下载量趋势](https://raw.githubusercontent.com/be-engineer/yunTV/main/images/downloads-chart.svg?v=202611121456)
+
+*数据来源：GitHub Releases API，由 GitHub Actions 每日自动更新。*
+
 本项目不提供任何影视内容，所有内容均来自用户自行配置的第三方数据源。请遵守当地法律法规，仅用于技术学习交流。
