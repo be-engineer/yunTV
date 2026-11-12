@@ -25,12 +25,13 @@
 
 ## 📦 下载
 
-到 [Releases](https://github.com/be-engineer/yunTV/releases) 页面下载最新版：
-
 | 文件 | 适用 |
 |------|------|
 | `yunTV-release-<日期>.apk` | arm64-v8a（主流手机/盒子） |
 | `yunTV-release-<日期>-armeabi.apk` | armeabi-v7a（老盒子） |
+
+<!-- Release Download Trend Chart (SVG) -->
+![GitHub Downloads](https://img.shields.io/github/downloads/be-engineer/yunTV/total.svg)
 
 ## ⚠️ 免责声明
 
