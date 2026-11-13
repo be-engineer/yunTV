@@ -33,45 +33,45 @@
 <text class="t-title" x="24" y="40">yunTV Release 下载量</text>
 <text class="t-sub" x="24" y="60">共 3 个版本 · 4 个安装包 · 数据来自 GitHub Releases API</text>
 <text class="t-label" x="876" y="20" text-anchor="end">总下载量</text>
-<text class="t-total" x="876" y="52" text-anchor="end">784</text>
+<text class="t-total" x="876" y="52" text-anchor="end">904</text>
 <text class="t-panel" x="24" y="96">累计下载量</text>
 <line class="grid" x1="70" y1="290.0" x2="876" y2="290.0"/>
 <text class="t-axis" x="60" y="293.5" text-anchor="end">0</text>
-<line class="grid" x1="70" y1="244.1" x2="876" y2="244.1" stroke-dasharray="3 3"/>
-<text class="t-axis" x="60" y="247.6" text-anchor="end">200</text>
-<line class="grid" x1="70" y1="198.2" x2="876" y2="198.2" stroke-dasharray="3 3"/>
-<text class="t-axis" x="60" y="201.7" text-anchor="end">400</text>
-<line class="grid" x1="70" y1="152.2" x2="876" y2="152.2" stroke-dasharray="3 3"/>
-<text class="t-axis" x="60" y="155.7" text-anchor="end">600</text>
-<line class="grid" x1="70" y1="106.3" x2="876" y2="106.3" stroke-dasharray="3 3"/>
-<text class="t-axis" x="60" y="109.8" text-anchor="end">800</text>
-<path d="M 204.3 179.1 L 473.0 124.5 L 741.7 110.0 L 741.7 290 L 204.3 290 Z" fill="url(#area)"/>
-<path class="line" d="M 204.3 179.1 L 473.0 124.5 L 741.7 110.0"/>
-<circle class="dot" cx="204.3" cy="179.1" r="4"/>
-<circle class="dot" cx="473.0" cy="124.5" r="4"/>
+<line class="grid" x1="70" y1="240.2" x2="876" y2="240.2" stroke-dasharray="3 3"/>
+<text class="t-axis" x="60" y="243.7" text-anchor="end">250</text>
+<line class="grid" x1="70" y1="190.4" x2="876" y2="190.4" stroke-dasharray="3 3"/>
+<text class="t-axis" x="60" y="193.9" text-anchor="end">500</text>
+<line class="grid" x1="70" y1="140.7" x2="876" y2="140.7" stroke-dasharray="3 3"/>
+<text class="t-axis" x="60" y="144.2" text-anchor="end">750</text>
+<line class="grid" x1="70" y1="90.9" x2="876" y2="90.9" stroke-dasharray="3 3"/>
+<text class="t-axis" x="60" y="94.4" text-anchor="end">1,000</text>
+<path d="M 204.3 188.3 L 473.0 138.9 L 741.7 110.0 L 741.7 290 L 204.3 290 Z" fill="url(#area)"/>
+<path class="line" d="M 204.3 188.3 L 473.0 138.9 L 741.7 110.0"/>
+<circle class="dot" cx="204.3" cy="188.3" r="4"/>
+<circle class="dot" cx="473.0" cy="138.9" r="4"/>
 <circle class="dot" cx="741.7" cy="110.0" r="4"/>
-<text class="t-halo" x="204.3" y="168.1" text-anchor="middle">483</text>
-<text class="t-val" x="204.3" y="168.1" text-anchor="middle">483</text>
-<text class="t-halo" x="473.0" y="113.5" text-anchor="middle">721</text>
-<text class="t-val" x="473.0" y="113.5" text-anchor="middle">721</text>
-<text class="t-halo" x="741.7" y="99.0" text-anchor="middle">784</text>
-<text class="t-val" x="741.7" y="99.0" text-anchor="middle">784</text>
+<text class="t-halo" x="204.3" y="177.3" text-anchor="middle">511</text>
+<text class="t-val" x="204.3" y="177.3" text-anchor="middle">511</text>
+<text class="t-halo" x="473.0" y="127.9" text-anchor="middle">759</text>
+<text class="t-val" x="473.0" y="127.9" text-anchor="middle">759</text>
+<text class="t-halo" x="741.7" y="99.0" text-anchor="middle">904</text>
+<text class="t-val" x="741.7" y="99.0" text-anchor="middle">904</text>
 <text class="t-panel" x="24" y="340">各版本下载量</text>
 <rect class="bar" x="178.3" y="356.0" width="52.0" height="48.0" rx="4"/>
-<text class="t-halo" x="204.3" y="350.0" text-anchor="middle">483</text>
-<text class="t-val" x="204.3" y="350.0" text-anchor="middle">483</text>
+<text class="t-halo" x="204.3" y="350.0" text-anchor="middle">511</text>
+<text class="t-val" x="204.3" y="350.0" text-anchor="middle">511</text>
 <text class="t-tag" x="204.3" y="422" text-anchor="middle">v20261110</text>
 <text class="t-axis" x="204.3" y="436" text-anchor="middle">11-10</text>
-<rect class="bar" x="447.0" y="380.3" width="52.0" height="23.7" rx="4"/>
-<text class="t-halo" x="473.0" y="374.3" text-anchor="middle">238</text>
-<text class="t-val" x="473.0" y="374.3" text-anchor="middle">238</text>
+<rect class="bar" x="447.0" y="380.7" width="52.0" height="23.3" rx="4"/>
+<text class="t-halo" x="473.0" y="374.7" text-anchor="middle">248</text>
+<text class="t-val" x="473.0" y="374.7" text-anchor="middle">248</text>
 <text class="t-tag" x="473.0" y="422" text-anchor="middle">v20261111</text>
 <text class="t-axis" x="473.0" y="436" text-anchor="middle">11-11</text>
-<rect class="bar" x="715.7" y="397.7" width="52.0" height="6.3" rx="4"/>
-<text class="t-halo" x="741.7" y="391.7" text-anchor="middle">63</text>
-<text class="t-val" x="741.7" y="391.7" text-anchor="middle">63</text>
+<rect class="bar" x="715.7" y="390.4" width="52.0" height="13.6" rx="4"/>
+<text class="t-halo" x="741.7" y="384.4" text-anchor="middle">145</text>
+<text class="t-val" x="741.7" y="384.4" text-anchor="middle">145</text>
 <text class="t-tag" x="741.7" y="422" text-anchor="middle">v20261112</text>
 <text class="t-axis" x="741.7" y="436" text-anchor="middle">11-12</text>
-<text class="t-axis" x="24" y="460">更新于 2026-11-12</text>
+<text class="t-axis" x="24" y="460">更新于 2026-11-14</text>
 <text class="t-axis" x="876" y="460" text-anchor="end">yuntv</text>
 </svg>
