@@ -34,7 +34,7 @@
 
 ### 📈 下载趋势
 
-![yunTV 下载量趋势](https://raw.githubusercontent.com/be-engineer/yunTV/main/images/downloads-chart.svg?v=202611131716)
+![yunTV 下载量趋势](https://raw.githubusercontent.com/be-engineer/yunTV/main/images/downloads-chart.svg?v=202611141553)
 
 *数据来源：GitHub Releases API，由 GitHub Actions 每日自动更新。*
 
