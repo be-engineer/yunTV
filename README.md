@@ -31,7 +31,7 @@
 
 | 文件 | 适用 |下载地址|
 |------|------|------|
-| `yunTV-release-<日期>.apk` | 通用安装包 |[下载最新版本](https://github.com/be-engineer/yunTV/releases/latest)|
+| `yunTV-release-<日期>.apk` | 通用安装包,手机电视可用 |[下载最新版本](https://github.com/be-engineer/yunTV/releases/latest)|
 
 
 
