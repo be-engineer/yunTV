@@ -1,10 +1,10 @@
 {
-  "versionCode": 20261112,
-  "versionName": "1.0.20261112_1444",
-  "apkUrl": "https://github.com/be-engineer/yunTV/releases/download/v20261112/yunTV-release-20261112.apk",
-  "changelog": "版本 1.0.20261112_1444（20261112）",
+  "versionCode": 20261120,
+  "versionName": "1.0.20261120_1639",
+  "apkUrl": "https://github.com/be-engineer/yunTV/releases/download/v20261120/yunTV-release-20261120.apk",
+  "changelog": "重写UI界面",
   "force": false,
-  "md5": "525a5e0de9d366a95d3a76d17ad2e6ff",
-  "sha256": "c00b66c598f5b44bbfc498dcb909e500e04ed43bc4dabc70547298106e607bff",
-  "sig": "TFNnM/b0zxLnof0XmpSf37wPCx4ve6GFyMa+A3qV9rTc7wo6gLhldeKMp6dXCKiJNsa5AsWXvWQ2A+RUgZhuBfsNJib9bW1rYH8jXIqrWzKbKkwbUlQy3JmcWpn8yeRzDiCwx9k/TiAzUlM5V+8OijiT5P8Z7yO9J4mWNlSZ09LJRVnmwTKoBbeFNIvjw8uHZOu5zhyHEGBvnEof6JOdBkWhQ0luG9iTlEfkG/5CtwTN05skRJ2KdmHuRcPVnRcyJ0W+og/uZlattS5goDCABfEp/bOdByqhXR/iXGUY86hXK+twbxG6LMPcFjAI6IR+8JU+6Vi3c0Fg7YrjKOUk/Q=="
+  "md5": "ea9797e45d89558bb8b79d26c2e36c72",
+  "sha256": "88f155aac87f10706219a4edc045a2afe1dec3b2105b3e639b68a192e7c49fb1",
+  "sig": "HEos6VlLlKpqZTqiIqGqW/Fls4Dem1yg0HrNfnRV6+twxXgFj+hiaTrBP7/7V/2jzF0Dgx7XYcibsqgpyvJljjLF4JUVJNlAdEqki5SZX7SsW6i0lqMlISddCckpt3CgdbfwrvN+JkAv7KV/wiTF4em8X0vQSCLCSr8pZt5LCDiP8LBMeqszlzIpguYUXkub6cHJjllkbdGDuBLvI4bjYxPOPaOKQfS/18OYnbeG0vHWS8T2u0lIwlXu+O9m87JpdVhlqJ2Trc34udlSOnSTx8KNr2YORObQLM2TJsyKnn+Py/Z8czogctvT6MCztQYcXLQeJ3WXbRd4/HMIjsom3w=="
 }
